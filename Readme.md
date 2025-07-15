@@ -3,6 +3,7 @@
 `整理不易，对您有帮助还请右上角给个Star✨ 哦`
 
 ## 下载或克隆本项目， 打开根目录index.html即可开始雅思学习
+- 注意： 写作请直接看Writing目录下的md: https://github.com/zeeklog/IETLS/tree/master/Writing%E6%A1%88%E4%BE%8B
 
 ![image](https://github.com/user-attachments/assets/23ac47e3-66bc-44b4-9da9-36ff504a5a2c)
 
