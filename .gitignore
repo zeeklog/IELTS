@@ -1,1 +1,9 @@
 .idea
+.DS_Store
+
+# 超大文件（超过 GitHub 100MB 限制）
+*.qkdownloading
+雅思作文资料/顾家北*.pdf
+雅思作文资料/柯林斯*.pdf
+雅思作文资料/小伴侣词汇之写作.pdf
+雅思作文资料/雅思8分万能作文.pdf

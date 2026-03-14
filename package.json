@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "build": "node scripts/build.js",
+    "generate-path": "node scripts/generate-path.js",
+    "organize": "node scripts/rename.js && node scripts/generate-path.js && node scripts/build.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
